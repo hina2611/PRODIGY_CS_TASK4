@@ -1,0 +1,1 @@
+Creating a basic keylogger involves recording keystrokes and saving them to a file. This is typically done for monitoring purposes or creating shortcuts, but always ensure you have explicit permission to use a keylogger on any system, as unauthorized use is illegal and unethical.
